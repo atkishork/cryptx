@@ -1,0 +1,6 @@
+CRYPTX(1)
+
+Author: Kishor Kumar
+GitHub: https://github.com/atk ishork
+
+A CTF-focused encoder/decoder CLI tool.
