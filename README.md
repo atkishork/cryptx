@@ -21,11 +21,10 @@ It supports base encodings, classical ciphers, numeric conversions, URL encoding
 
 1. [Installation](#installation)  
 2. [Usage](#usage)  
-3. [Pipe & File Support](#pipe--file-support)  
-4. [Manual Page](#manual-page)  
-5. [Examples](#examples)  
-6. [Uninstallation](#uninstallation)  
-7. [Author & License](#author--license)  
+3. [Manual Page](#manual-page)  
+4. [Examples](#examples)  
+5. [Uninstallation](#uninstallation)  
+6. [Author & License](#author--license)  
 
 ---
 
@@ -47,7 +46,7 @@ which cryptx
 cryptx --man  (manual page)
 cryptx -h  (help page)
 ```
-### 4️⃣ Examples:--
+### 4️⃣ Examples
 ```bash
 # Base64 encode
 cryptx -e base64 "hello world"
@@ -74,7 +73,7 @@ cryptx -d hex "68656c6c6f"
 pipx uninstall cryptx
 ```
 
-###Author & License
+### Author & License
 Author: Kishor Kumar
 GitHub: https://github.com/atkishork
 License: MIT License
